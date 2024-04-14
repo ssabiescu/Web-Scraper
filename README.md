@@ -3,11 +3,9 @@
 
 ## Descriere
 
-#### Am implementat un script in Python care verifica daca un număr de telefon este portat și furnizează informații despre acesta, cum ar fi operatorul curent, operatorul inițial, data curentă și tipul de număr (📱 sau ☎️).
+Am implementat un script in Python care verifica daca un număr de telefon este portat și furnizează informații despre acesta, cum ar fi operatorul curent, operatorul inițial, data curentă și tipul de număr (📱 sau ☎️).
 
-
-
-#### Scriptul utilizeaza biblioteca `requests` pentru a accesa continutul paginii web https://www.portabilitate.ro/ si biblioteca `BeautifulSoup` pentru a parsa continutul HTML al paginii web.
+Scriptul utilizeaza biblioteca `requests` pentru a accesa continutul paginii web https://www.portabilitate.ro/ si biblioteca `BeautifulSoup` pentru a parsa continutul HTML al paginii web.
 
 ## Utilizare
 
